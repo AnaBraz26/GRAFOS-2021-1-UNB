@@ -1,3 +1,4 @@
+# Instruções
 Aluna: Ana Caroline da Rocha Braz
 Matrícula: 212008482
 
@@ -14,5 +15,5 @@ Houve uma mudança no arquivo soc-dolphins.mtx, foi retirado o texto deixando ap
 melhor a leitura do arquivo no código.
 
 Para compilação do programa é necessário no terminal digitar:
-python main.py
+'' python main.py ''
 
