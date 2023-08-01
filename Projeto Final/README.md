@@ -9,6 +9,7 @@ Para compilação do programa é necessário apenas que digite no terminal
 Como forma de pesquisa foram visto várias formas de implementação do códigochegando até o atual
 
 Códigos e pseudo-códigos que serviram de base para o programa:
+
 https://www.tutorialspoint.com/M-Coloring-Problem
 https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
 
