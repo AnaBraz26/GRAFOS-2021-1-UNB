@@ -1,4 +1,4 @@
-# INSTRUÇÔES
+# INSTRUÇÕES
 Ana Caroline Braz 212008482
 
 O código implementado tem como objetivo apresentar um sudoku em formato
