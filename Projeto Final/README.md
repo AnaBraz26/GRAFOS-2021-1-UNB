@@ -16,8 +16,10 @@ Além dos sites vários artigos foram pesquisados para tirar dúvidas sobre impl
 http://ceur-ws.org/Vol-1754/EPoGames_2016_AC_paper_2.pdf (um dos artigos consultados)
 e os slides dados em sala de aula também foram consultados 
 
+```diff
 Class SudokuBase -> Métode de criação do jogo: gera um grafo vazio, preenche e imprime
 Class SudokuAlgorithms -> Faz a coloração do grafo e mostra o passo-a-passo
 Class SudokuSolver -> Método para resolução do jogo: gera um sudoku, a solução e resolução 
 Class SudokuUser -> Método de interação com o usuário
 Class UserInterface -> Interface no terminal
+```
