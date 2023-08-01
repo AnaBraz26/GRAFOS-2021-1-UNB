@@ -6,7 +6,7 @@ de coloração de grafos
 Para compilação do programa é necessário apenas que digite no terminal
 "python sudoku_212008482.py"
 
-Como forma de pesquisa foram visto várias formas de implementação do códigochegando até o atual
+Como forma de pesquisa foram visto várias formas de implementação do código chegando até o atual
 
 Códigos e pseudo-códigos que serviram de base para o programa:
 
